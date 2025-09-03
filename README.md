@@ -11,7 +11,7 @@ Features Included:
 Built as a final project for ECE 385 at UIUC, integrating hardware-accelerated game logic with efficient memory management.
 
 Live Game Demo:
-[./PACMAN.mp4]
+./PACMAN.mp4
 
 
 
