@@ -11,7 +11,8 @@ Features Included:
 Built as a final project for ECE 385 at UIUC, integrating hardware-accelerated game logic with efficient memory management.
 
 Live Game Demo:
-https://github.com/user-attachments/assets/41a04ee1-b82e-43ae-97fd-2885d0f73993
+
+https://github.com/user-attachments/assets/5248abac-fba9-4b5e-80b8-0504ff96e807
 
 
 
